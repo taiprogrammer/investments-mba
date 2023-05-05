@@ -1,0 +1,6 @@
+.container {
+    display: grid;
+    grid-template-columns: 50rem 50rem;
+
+    justify-content: center;
+}
