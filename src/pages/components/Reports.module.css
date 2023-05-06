@@ -24,8 +24,12 @@ h4 {
   font-weight: 400;
 }
 
-.status {
+.status_positive {
   color: var(--green-300);
+}
+
+.status_negative {
+  color: var(--red-300);
 }
 
 .conatiner_info {
@@ -49,5 +53,5 @@ h4 {
 }
 
 .info + .info {
-    margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
